@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "Seongmo"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "**노력하지 않으면 변하지 못한다** TIL(Today I Learned)를 작성하며 노력하고 발전하는 개발자가 되겠습니다."
+  bio              : #"**노력하지 않으면 변하지 못한다** TIL(Today I Learned)를 작성하며 노력하고 발전하는 개발자가 되겠습니다."
   location         : "Daegu"
   email            : "gusm2561@gmail.com"
   links:
